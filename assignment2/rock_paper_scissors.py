@@ -26,7 +26,7 @@ def check_choice(choice):
 	# TODO: You need to write an if statement that returns True when the player has
 	# entered a valid string ('rock', 'paper', 'scissors')
 	# If they did not enter a valid string it should return False and print the valid things:
-	# print "Invalid input. Type either \'rock\', \'paper\', \'scissors\', or \'quit\''"
+	# print "Invalid input. Type either \'rock\', \'paper\', \'scissors\', or \'quit\'"
 
 
 def evaluate(choice):
