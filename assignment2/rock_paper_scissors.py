@@ -12,14 +12,14 @@ def throw():
 	# TODO: get a random number between 1 and 3
 	choice = 
 
-	# TODO: Write an if statement that sets the variable 'throw' equal to:
+	# TODO: Write an if statement that REASSIGNS the variable 'choice' equal to:
 	# 'rock' if choice == 1
 	# 'paper' if choice == 2
 	# 'scissors' if choice == 3
 
 
-	print "The computer picked %s" % (throw)
-	return throw
+	print "The computer picked %s" % (choice)
+	return choice
 
 def check_choice(choice):
 
