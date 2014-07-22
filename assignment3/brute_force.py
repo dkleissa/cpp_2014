@@ -26,12 +26,12 @@ encrypted_string =
 # TODO: Finish this for loop to loop through all possible keys (0-26)
 # setting the variable `key`
 for ____:
-	#TODO: Print the current key you are trying
+    #TODO: Print the current key you are trying
 
-	# TODO: call caeser() to attempt to decrypt
+    # TODO: call caeser() to attempt to decrypt
 
-	# Print the result
+    # Print the result
 
-	
-	# Print a blank line to make things easier to read
-	print ""
+    
+    # Print a blank line to make things easier to read
+    print ""
